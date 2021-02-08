@@ -3,15 +3,29 @@
 https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
 #EXTINF:-1, Al Hurra Iraq
 https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.m3u8
+#EXTINF:-1, Iqraa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+#EXTINF:-1, Asharq TV
+https://bcsecurelivehls-i.akamaihd.net/hls/live/1021447/6203311941001/master-720.m3u8
+#EXTINF:-1, Al Ghad Al Araby
+https://www.youtube.com/watch?v=s_lfbFjs_Yw
+#EXTINF:-1, Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1, Al Mamlaka
+https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8?DVR
+#EXTINF:-1, DW Arabic
+https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, Al Araby
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+#EXTINF:-1, BBC Arabic
+https://emp.bbci.co.uk/emp/media/blankv2.mp4
+#EXTINF:-1, TRT Arabic
+https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1, LanaTv
+https://stream.lanacanal.tv:5443/LiveApp/streams/369789291335520284765911.m3u8
 #EXTINF:-1, Nour Al-Sham
 http://82.137.248.16:1935/Nour/stream10112020/chunklist_w1570680969.m3u8
 #EXTINF:-1, Syria
 http://82.137.248.16:1935/Sat/stream10112020/chunklist.m3u8
 #EXTINF:-1, SamaTV
 http://192.34.153.37:7777/SamaTV_HD/SamaTV_HD.m3u8?user=sgls540839&session=6aeebc26d63b21d2a80037ac2e20f931b33fb1d0f815b2312c041bfe58e2617f79dad3d6b43fbae9&hlsid=HTTP_ID_4&starttime=20200717T070353.789885
-#EXTINF:-1, Iqraa
-https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
-#EXTINF:-1, Asharq TV
-https://bcsecurelivehls-i.akamaihd.net/hls/live/1021447/6203311941001/master-720.m3u8
-#EXTINF:-1, Al Ghad Al Araby
-https://r2---sn-nv47lnsd.googlevideo.com/videoplayback?expire=1612834531&ei=g5IhYKTvKNPj-gbov6uACw&ip=213.14.230.2&id=s_lfbFjs_Yw.2&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160&source=yt_live_broadcast&requiressl=yes&mh=4w&mm=44%2C26&mn=sn-nv47lnsd%2Csn-4g5edn7y&ms=lva%2Conr&mv=u&mvi=2&pl=24&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=Nr2WCKsNAXsm49_Qmjd83NsF&gir=yes&mt=1612812508&fvip=2&keepalive=yes&c=WEB&n=IMr1TXvGtb_5TAN&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgblRJNLr4itlHk_LJDHWb4VGA4kY0se52k1WIlU_fOtsCICGKbuPEejmGW4BobDmV4hF6IMAC4vBK29vAqEfxoPhw&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AG3C_xAwRAIgVWeOoTbz-0v5Pgvy9tFd7AHdNiZg7V1job5MrbyCV14CID_kTiL_LMKthGPWGjwhQVkWGOpDZ1niN31KLSnXrTzG
