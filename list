@@ -3,8 +3,8 @@
 https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
 #EXTINF:-1, Al Hurra Iraq
 https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.m3u8
-#EXTINF:-1, Nour Al-Sham2
-http://192.34.153.37:7777/NourElSham_HD/NourElSham_HD.m3u8?user=sgls540839&session=b77f383df405e3a29320928b7ef409338dac56b283b060635ca62c291970658e6467c18251f0504ede2a9a15d4e21705&hlsid=HTTP_ID_4&starttime=20200717T070353.789885
+#EXTINF:-1, Nour Al-Sham
+http://82.137.248.16:1935/Nour/stream10112020/chunklist_w1570680969.m3u8
 #EXTINF:-1, Syria
 http://82.137.248.16:1935/Sat/stream10112020/chunklist.m3u8
 #EXTINF:-1, SamaTV
