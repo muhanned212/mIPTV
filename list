@@ -3,8 +3,8 @@
 https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
 #EXTINF:-1, Al Hurra Iraq
 https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.m3u8
-#EXTINF:-1, Iqraa
-https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+#EXTINF:-1, RT Arabic
+https://rt-arab.secure.footprint.net/1104_2500Kb.m3u8
 #EXTINF:-1, Asharq TV
 https://bcsecurelivehls-i.akamaihd.net/hls/live/1021447/6203311941001/master-720.m3u8
 #EXTINF:-1, Al Ghad Al Araby
@@ -18,7 +18,7 @@ https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-p.m3u8?sd
 #EXTINF:-1, Al Araby
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, BBC Arabic
-https://emp.bbci.co.uk/emp/media/blankv2.mp4
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1, TRT Arabic
 https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1, LanaTv
@@ -29,3 +29,5 @@ http://82.137.248.16:1935/Nour/stream10112020/chunklist_w1570680969.m3u8
 http://82.137.248.16:1935/Sat/stream10112020/chunklist.m3u8
 #EXTINF:-1, SamaTV
 http://192.34.153.37:7777/SamaTV_HD/SamaTV_HD.m3u8?user=sgls540839&session=6aeebc26d63b21d2a80037ac2e20f931b33fb1d0f815b2312c041bfe58e2617f79dad3d6b43fbae9&hlsid=HTTP_ID_4&starttime=20200717T070353.789885
+#EXTINF:-1, Iqraa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
