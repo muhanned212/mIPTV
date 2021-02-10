@@ -51,3 +51,7 @@ https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/in
 http://188.160.0.148:1935/5c76a1358452981/_definst_/smil:myStream.smil/chunklist_w1466094978_b1000000.m3u8?t=5e5b8e3be3b16
 #EXTINF:-1, ِFuture TV
 https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
+#EXTINF:-1, ِMiami TV
+https://59ec5453559f0.streamlock.net/blog/BlogLive/playlist.m3u8
+#EXTINF:-1, ِMiami TV 2
+https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/playlist.m3u8
