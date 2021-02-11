@@ -26,13 +26,17 @@ https://stream.lanacanal.tv:5443/LiveApp/streams/661600756283263429588675.m3u8
 #EXTINF:-1, Nour Al-Sham
 http://82.137.248.16:1935/Nour/stream10112020/chunklist_w1570680969.m3u8
 #EXTINF:-1, Nour Al-Sham HD
-http://192.34.153.37:7777/NourElSham_HD/NourElSham_HD.m3u8?user=sgls540839&session=2b691ec361de9dae207b4432d4038cad8dac56b283b060635ca62c291970658e6467c18251f0504ede2a9a15d4e21705&hlsid=HTTP_ID_671435&starttime=20200717T070353.789885
-#EXTINF:-1, SyriaTv
+http://192.34.153.37:7777/NourElSham_HD/NourElSham_HD.m3u8?user=sgls540839&session=39447abf0ffda212f8f4c6d48a27aa33bd317990f2fc173d2b67046f5ff5b9b26467c18251f0504ede2a9a15d4e21705&hlsid=HTTP_ID_671435&starttime=20200717T070353.789885
+#EXTINF:-1, Syria Tv
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
 #EXTINF:-1, Syria 1
 http://82.137.248.16:1935/Sat/stream10112020/chunklist.m3u8
-#EXTINF:-1, Syria 2 HD
-http://192.34.153.37:7777/SyriaSat_HD/SyriaSat_HD.m3u8?user=sgls540839&session=69f82f8b425b828957e94b0c168541ac10441d8331964606df702720b76ffdcd7c0f8772c4f2024f&hlsid=HTTP_ID_671435&starttime=20200717T070353.789885
+#EXTINF:-1, Syria 1 HD
+http://192.34.153.37:7777/SyriaSat_HD/SyriaSat_HD.m3u8?user=sgls540839&session=7a28631e7d548c6aac9252b9b681ecdf217999fc2aef075ef503d6cb6409469b7c0f8772c4f2024f&hlsid=HTTP_ID_671435&starttime=20200717T070353.789885
+#EXTINF:-1, Syria Drama
+http://82.137.248.16:1935/Drama/stream10112020/chunklist.m3u8
+#EXTINF:-1, Syria Drama HD
+http://192.34.153.37:7777/SyriaDrama_HD/SyriaDrama_High.m3u8?user=sgls540839&session=3572f71710cdf7f79b4b3eedcaecc39d062dfd5a293753892b67046f5ff5b9b26467c18251f0504ede2a9a15d4e21705&hlsid=HTTP_ID_671435&starttime=20200717T070353.795887
 #EXTINF:-1, Syria News
 http://82.137.248.16:1935/Snews/stream10112020/chunklist.m3u8
 #EXTINF:-1, SamaTV
