@@ -27,6 +27,8 @@ https://stream.lanacanal.tv:5443/LiveApp/streams/661600756283263429588675.m3u8
 http://82.137.248.16:1935/Nour/stream10112020/chunklist_w1570680969.m3u8
 #EXTINF:-1, Nour Al-Sham HD
 http://192.34.153.37:7777/NourElSham_HD/NourElSham_HD.m3u8?user=sgls540839&session=ee93311cf8509fe188fb859300270e15bd317990f2fc173d2b67046f5ff5b9b26467c18251f0504ede2a9a15d4e21705&hlsid=HTTP_ID_6&starttime=20200717T070353.789885
+#EXTINF:-1, Nour Al-Sham HD 2
+https://vsd90.mycdn.me:443/hls/725073070710.m3u8/sig/GXmUDtebhag/expires/1613695091529/srcIp/95.70.130.72/urls/185.226.53.65/clientType/0/srcAg/CHROME_ANDROID/mid/1654728629878/725073070710_high/index.m3u8
 #EXTINF:-1, Syria Tv
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
 #EXTINF:-1, Syria 1
