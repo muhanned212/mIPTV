@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwnif9KxOvP-0U0BNHpwMNWVjwUTjdMeOjItbzKmg=s176-c-k-c0x00ffffff-no-rj-mo", Al Hurra
 https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
-#EXTINF:-1, Al Hurra Iraq
+#EXTINF:-1, logo="https://pbs.twimg.com/profile_images/1059144968114262019/vN5m0yvd_400x400.jpg", Al Hurra Iraq
 https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.m3u8
 #EXTINF:-1, RT Arabic
 https://rt-arab.secure.footprint.net/1104_2500Kb.m3u8
