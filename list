@@ -34,7 +34,7 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
 #EXTINF:-1, Syria 1
 http://82.137.248.16:1935/Sat/stream10112020/chunklist.m3u8
 #EXTINF:-1, Syria 1 HD
-http://192.34.153.37:7777/SyriaSat_HD/SyriaSat_HD.m3u8?user=sgls540839&session=7a28631e7d548c6aac9252b9b681ecdf217999fc2aef075ef503d6cb6409469b7c0f8772c4f2024f&hlsid=HTTP_ID_671435&starttime=20200717T070353.789885
+http://192.34.153.37:7777/SyriaSat_HD.m3u8?user=sgls540839&session=6909fbf14c295eb6346501b71c4bdf2e217999fc2aef075ef503d6cb6409469b7c0f8772c4f2024f
 #EXTINF:-1, Syria Drama
 http://82.137.248.16:1935/Drama/stream10112020/chunklist.m3u8
 #EXTINF:-1, Syria Drama HD
