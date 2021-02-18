@@ -3,69 +3,67 @@
 https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
 #EXTINF:-1, logo="https://pbs.twimg.com/profile_images/1059144968114262019/vN5m0yvd_400x400.jpg", Al Hurra Iraq
 https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.m3u8
-#EXTINF:-1, RT Arabic
+#EXTINF:-1, logo="https://pbs.twimg.com/profile_images/3547428425/7c11e1d00658cfeb994e85143ea03be3_400x400.jpeg", RT Arabic
 https://rt-arab.secure.footprint.net/1104_2500Kb.m3u8
-#EXTINF:-1, Asharq TV
+#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwnjLZGIoi4M7iVoQKNWC85fhv1JOpvI9GqMaWV3p=s88-c-k-c0x00ffffff-no-rj", Asharq TV
 https://bcsecurelivehls-i.akamaihd.net/hls/live/1021447/6203311941001/master-720.m3u8
 #EXTINF:-1, Al Ghad Al Araby
 https://youtu.be/VXTylYKMzoQ
-#EXTINF:-1, Al Jazeera Arabic
+#EXTINF:-1, logo="https://images-eu.ssl-images-amazon.com/images/I/310YEHDYguL.png", Al Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
-#EXTINF:-1, France24 Arabic
+#EXTINF:-1, logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png", France24 Arabic
 http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
-#EXTINF:-1, Al Mamlaka
+#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwngYXQgMZPCIpB8lAT2tEmeXSyJ9GOM5AX4F7Vak=s176-c-k-c0x00ffffff-no-rj-mo", Al Mamlaka
 https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8?DVR
-#EXTINF:-1, DW Arabic
+#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwngGnzVclb51YaW98Tje16R6jEtv84jZ8tPQ3H19Cg=s900-c-k-c0x00ffffff-no-rj", DW Arabic
 https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1, Al Araby
+#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwniETuPCUuk2NwJllxSXQhiSeebnbjugVKyQbBWCTw=s176-c-k-c0x00ffffff-no-rj-mo", Al Araby
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
-#EXTINF:-1, TRT Arabic
+#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwniy-zcuswM3n-U0MeK3y1xy8CiFe1_nsLLLxUXO=s176-c-k-c0x00ffffff-no-rj-mo", TRT Arabic
 https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
-#EXTINF:-1, Sky News Arabia
+#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwng5IyYIdxx6OlBHEPsFNprU2NgLk-kyGnnDnuy87Kw=s176-c-k-c0x00ffffff-no-rj-mo", Sky News Arabia
 https://stream.skynewsarabia.com:443/hls/sna_720.m3u8
-#EXTINF:-1, Sky News Arabia 2
+#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwng5IyYIdxx6OlBHEPsFNprU2NgLk-kyGnnDnuy87Kw=s176-c-k-c0x00ffffff-no-rj-mo", Sky News Arabia 2
 http://nimplus4eu1.giniko.com/skynewsarb/skynewsarb/chunklist_w509946427.m3u8?nimblesessionid=5570287&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6NDM6NDAgQU0maGFzaF92YWx1ZT1HdGU0RUFWVWdiU21IQlhkdXFkWU9RPT0mdmFsaWRtaW51dGVzPTI4ODA=
-#EXTINF:-1, Al Hadath
+#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwniX9dbZXFLNvgzIJ-GOAZ_BwYE79G_iZ2MLV6xW=s176-c-k-c0x00ffffff-no-rj-mo", Al Hadath
 https://av.alarabiya.net:443/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
-#EXTINF:-1, Al Hadath 2
+#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwniX9dbZXFLNvgzIJ-GOAZ_BwYE79G_iZ2MLV6xW=s176-c-k-c0x00ffffff-no-rj-mo", Al Hadath 2
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
-#EXTINF:-1, LanaTv
+#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwngtXWJoiDBkB2DPDB4Fz-3D43xElSgtJ6RPsWiP=s176-c-k-c0x00ffffff-no-rj-mo", Lana TV
 https://stream.lanacanal.tv:5443/LiveApp/streams/661600756283263429588675.m3u8
-#EXTINF:-1, Nour Al-Sham
+#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwnjaUglhN1iVmoe5zC4hf1RdqvvxEQxRlwphWxaS=s176-c-k-c0x00ffffff-no-rj-mo", Nour Al-Sham
 http://82.137.248.16:1935/Nour/stream10112020/chunklist_w1570680969.m3u8
-#EXTINF:-1, Nour Al-Sham HD
+#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwnjaUglhN1iVmoe5zC4hf1RdqvvxEQxRlwphWxaS=s176-c-k-c0x00ffffff-no-rj-mo", Nour Al-Sham HD
 http://192.34.153.37:7777/NourElSham_HD/NourElSham_HD.m3u8?user=sgls540839&session=ee93311cf8509fe188fb859300270e15bd317990f2fc173d2b67046f5ff5b9b26467c18251f0504ede2a9a15d4e21705&hlsid=HTTP_ID_6&starttime=20200717T070353.789885
-#EXTINF:-1, Nour Al-Sham HD 2
+#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwnjaUglhN1iVmoe5zC4hf1RdqvvxEQxRlwphWxaS=s176-c-k-c0x00ffffff-no-rj-mo", Nour Al-Sham HD 2
 https://vsd90.mycdn.me:443/hls/725073070710.m3u8/sig/GXmUDtebhag/expires/1613695091529/srcIp/95.70.130.72/urls/185.226.53.65/clientType/0/srcAg/CHROME_ANDROID/mid/1654728629878/725073070710_high/index.m3u8
-#EXTINF:-1, Syria Tv
+#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwngjufkmJJNjgPzGkxcvo6HLBtgl0pIdPZcHLDja=s176-c-k-c0x00ffffff-no-rj-mo", Syria Tv
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
-#EXTINF:-1, Syria 1
+#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwnho_A0RpaW1V4LsnwCllczAFYUKDle8h3QYK5GW=s176-c-k-c0x00ffffff-no-rj-mo", Syria 1
 http://82.137.248.16:1935/Sat/stream10112020/chunklist.m3u8
-#EXTINF:-1, Syria 1 HD
+#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwnho_A0RpaW1V4LsnwCllczAFYUKDle8h3QYK5GW=s176-c-k-c0x00ffffff-no-rj-mo", Syria 1 HD
 http://192.34.153.37:7777/SyriaSat_HD.m3u8?user=sgls540839&session=6909fbf14c295eb6346501b71c4bdf2e217999fc2aef075ef503d6cb6409469b7c0f8772c4f2024f
-#EXTINF:-1, Syria Drama
+#EXTINF:-1, logo="https://upload.wikimedia.org/wikipedia/ar/3/3e/%D9%82%D9%86%D8%A7%D8%A9_%D8%B3%D9%88%D8%B1%D9%8A%D8%A9_%D8%AF%D8%B1%D8%A7%D9%85%D8%A7.png", Syria Drama
 http://82.137.248.16:1935/Drama/stream10112020/chunklist.m3u8
-#EXTINF:-1, Syria Drama HD
-http://192.34.153.37:7777/SyriaDrama_HD/SyriaDrama_High.m3u8?user=sgls540839&session=3572f71710cdf7f79b4b3eedcaecc39d062dfd5a293753892b67046f5ff5b9b26467c18251f0504ede2a9a15d4e21705&hlsid=HTTP_ID_671435&starttime=20200717T070353.795887
-#EXTINF:-1, Syria News
+#EXTINF:-1, logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPFiyWWFh8S_a9lxMvSkjoclwbYncZhUNoYQ&usqp=CAU", Syria News
 http://82.137.248.16:1935/Snews/stream10112020/chunklist.m3u8
-#EXTINF:-1, SamaTV
+#EXTINF:-1, logo="https://media.elcinema.com/tvguide/1350_1.png", Sama TV
 http://stream.sama-tv.net:8080/hls/samatv.m3u8?720
-#EXTINF:-1, Iqraa
+#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwng5vm6JiMcNPZ98ZfdkxdBTBYF6CNujaFTqkwUOew=s176-c-k-c0x00ffffff-no-rj-mo", Iqraa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
-#EXTINF:-1, Al Resala
+#EXTINF:-1, logo="https://telfaz.ucoz.com/_ld/0/83320126.jpg", Al Resala
 https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_480p/chunks.m3u8
-#EXTINF:-1, Al Resala HD
+#EXTINF:-1, logo="https://telfaz.ucoz.com/_ld/0/83320126.jpg", Al Resala HD
 https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_1080p/chunks.m3u8
-#EXTINF:-1, Quran Kareem
+#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwnj6YuFr8JwiZ9_7JIaFAWdfFPeEp_AdxbI_CFGonA=s176-c-k-c0x00ffffff-no-rj-mo", Quran Kareem
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1, Al-Sunnah
+#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwnhE7lTRmapeqPytQzbG5PljCq-YShDQAXEpiuiC4A=s176-c-k-c0x00ffffff-no-rj-mo", Al-Sunnah
 http://m.live.net.sa:1935/live/sunnah/chunklist_w2015308056.m3u8?v=3574523394
-#EXTINF:-1, MBC 1 HD
+#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwngJr_88V00Bntm0EN80yw6gbr-bcodwBoU3AfV_L9M=s176-c-k-c0x00ffffff-no-rj-mo", MBC 1 HD
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
-#EXTINF:-1, ِMBC 2
+#EXTINF:-1, ِlogo="https://yt3.ggpht.com/ytc/AAUvwnhiUoBKFcKaeXGWfqwGV-etW64m0x6kbYm-wmC_kUY=s176-c-k-c0x00ffffff-no-rj-mo", MBC 2
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
-#EXTINF:-1, ِAl Jadeed
+#EXTINF:-1, ِlogo="https://pbs.twimg.com/profile_images/1044664223811481601/mcqaxHRL.jpg", Al Jadeed
 http://188.160.0.148:1935/5c76a1358452981/_definst_/smil:myStream.smil/chunklist_w1466094978_b1000000.m3u8?t=5e5b8e3be3b16
-#EXTINF:-1, ِFuture TV
+#EXTINF:-1, ِlogo="https://pbs.twimg.com/profile_images/2513969942/1ro4nquli9d98ltodulv_400x400.jpeg", Future TV
 https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
