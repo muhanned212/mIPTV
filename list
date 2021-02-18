@@ -25,6 +25,10 @@ https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
 https://stream.skynewsarabia.com:443/hls/sna_720.m3u8
 #EXTINF:-1, Sky News Arabia 2
 http://nimplus4eu1.giniko.com/skynewsarb/skynewsarb/chunklist_w509946427.m3u8?nimblesessionid=5570287&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIxIDE6NDM6NDAgQU0maGFzaF92YWx1ZT1HdGU0RUFWVWdiU21IQlhkdXFkWU9RPT0mdmFsaWRtaW51dGVzPTI4ODA=
+#EXTINF:-1, Al Hadath
+https://av.alarabiya.net:443/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
+#EXTINF:-1, Al Hadath 2
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
 #EXTINF:-1, LanaTv
 https://stream.lanacanal.tv:5443/LiveApp/streams/661600756283263429588675.m3u8
 #EXTINF:-1, Nour Al-Sham
