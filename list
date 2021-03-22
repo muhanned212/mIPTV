@@ -16,7 +16,7 @@ http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
 #EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwngYXQgMZPCIpB8lAT2tEmeXSyJ9GOM5AX4F7Vak=s176-c-k-c0x00ffffff-no-rj-mo", Al Mamlaka
 https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8?DVR
 #EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwngGnzVclb51YaW98Tje16R6jEtv84jZ8tPQ3H19Cg=s900-c-k-c0x00ffffff-no-rj", DW Arabic
-https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-p.m3u8?sd=10&rebase=on
+https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwniETuPCUuk2NwJllxSXQhiSeebnbjugVKyQbBWCTw=s176-c-k-c0x00ffffff-no-rj-mo", Al Araby
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwniy-zcuswM3n-U0MeK3y1xy8CiFe1_nsLLLxUXO=s176-c-k-c0x00ffffff-no-rj-mo", TRT Arabic
