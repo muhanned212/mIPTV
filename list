@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, , i24
+https://i24alive2.akamaized.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8?__nn__=5476555825001&hdnea=st=1619029800~exp=1619033400~acl=/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/*~hmac=ea7cf27b3ba2198c3e760e637b768a606df3452b32a3cfd3ce867c21c0a8d0c8&__nn__=5476555825001&hdnea=st=1593502200~exp=1593505800~acl=/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/*~hmac=e10085a246c4608e9f04e7d4b925449af4c8477024068d6ca8e4e3f9de7364b1&__nn__=5476555825001&hdnea=st=1579100400~exp=1579104000~acl=/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/*~hmac=c186cee77d80e35d26659b79813e3945270ce3339b49292ac0a39914dba1ffc5
 #EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwnif9KxOvP-0U0BNHpwMNWVjwUTjdMeOjItbzKmg=s176-c-k-c0x00ffffff-no-rj-mo", Al Hurra
 https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
 #EXTINF:-1, logo="https://pbs.twimg.com/profile_images/1059144968114262019/vN5m0yvd_400x400.jpg", Al Hurra Iraq
