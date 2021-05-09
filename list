@@ -71,3 +71,5 @@ https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/in
 http://188.160.0.148:1935/5c76a1358452981/_definst_/smil:myStream.smil/chunklist_w1466094978_b1000000.m3u8?t=5e5b8e3be3b16
 #EXTINF:-1, ِlogo="https://pbs.twimg.com/profile_images/2513969942/1ro4nquli9d98ltodulv_400x400.jpeg", Future TV
 https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
+#EXTINF:-1, ِlogo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png", Future TV
+https://persona-tv8-live.ercdn.net/v_r2/init.mp4?st=PdjQbkRTg-Fmvr1jmeeYZA&e=1788617544
