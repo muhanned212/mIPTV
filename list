@@ -67,9 +67,5 @@ http://m.live.net.sa:1935/live/sunnah/chunklist_w2015308056.m3u8?v=3574523394
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
 #EXTINF:-1, ِlogo="https://yt3.ggpht.com/ytc/AAUvwnhiUoBKFcKaeXGWfqwGV-etW64m0x6kbYm-wmC_kUY=s176-c-k-c0x00ffffff-no-rj-mo", MBC 2
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
-#EXTINF:-1, ِlogo="https://pbs.twimg.com/profile_images/1044664223811481601/mcqaxHRL.jpg", Al Jadeed
-http://188.160.0.148:1935/5c76a1358452981/_definst_/smil:myStream.smil/chunklist_w1466094978_b1000000.m3u8?t=5e5b8e3be3b16
-#EXTINF:-1, ِlogo="https://pbs.twimg.com/profile_images/2513969942/1ro4nquli9d98ltodulv_400x400.jpeg", Future TV
-https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
-#EXTINF:-1, ِlogo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png", Future TV
+#EXTINF:-1, ِlogo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png", TV 8
 https://persona-tv8-live.ercdn.net/v_r2/init.mp4?st=PdjQbkRTg-Fmvr1jmeeYZA&e=1788617544
