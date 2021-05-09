@@ -67,5 +67,5 @@ http://m.live.net.sa:1935/live/sunnah/chunklist_w2015308056.m3u8?v=3574523394
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
 #EXTINF:-1, ِlogo="https://yt3.ggpht.com/ytc/AAUvwnhiUoBKFcKaeXGWfqwGV-etW64m0x6kbYm-wmC_kUY=s176-c-k-c0x00ffffff-no-rj-mo", MBC 2
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
-#EXTINF:-1, ِlogo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png", TV 8
-https://persona-tv8-live.ercdn.net/v_r2/init.mp4?st=PdjQbkRTg-Fmvr1jmeeYZA&e=1788617544
+#EXTINF:-1, ِlogo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRrORFKmQAYFcJjmQlob2cLy1c3kmV8NSyAu1s0LMGFgsjqzwj2lrUQcvc&s=10", TV 8
+https://tv8.personamedia.tv/tv8?dev=mobile,Chrome&ad_params=age%3D%26gender%3D%26uuid%3D093c9617-5910-4ce8-8974-fd5ec3b98003%26personaid%3D9ae78220-b0d8-11eb-b444-8fb187c7c1e5%26locx%3D40.99%26locy%3D28.65
