@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1, logo="https://images-eu.ssl-images-amazon.com/images/I/310YEHDYguL.png", Al Jazeera Arabic HD
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1, logo="https://images-eu.ssl-images-amazon.com/images/I/310YEHDYguL.png", Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net:443/AJA/01.m3u8
+#EXTINF:-1, logo="https://images-eu.ssl-images-amazon.com/images/I/310YEHDYguL.png", Al Jazeera Arabic SD
 https://live-hls-web-aja.getaj.net:443/AJA/04.m3u8
 #EXTINF:-1, logo="https://images-eu.ssl-images-amazon.com/images/I/310YEHDYguL.png", Al Jazeera الوثائقية
 https://live-hls-web-ajd.getaj.net:443/AJD/02.m3u8
