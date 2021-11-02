@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, logo="https://images-eu.ssl-images-amazon.com/images/I/310YEHDYguL.png", Al Jazeera Arabic
-https://live-hls-web-aja.getaj.net/AJA/02.m3u8
+https://live-hls-web-aja.getaj.net/AJA/03.m3u8
 #EXTINF:-1, logo="https://images-eu.ssl-images-amazon.com/images/I/310YEHDYguL.png", Al Jazeera الوثائقية
 https://live-hls-web-ajd.getaj.net:443/AJD/02.m3u8
 #EXTINF:-1, logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png", France24 Arabic
@@ -45,7 +45,7 @@ https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b18000
 #EXTINF:-1, logo="https://telfaz.ucoz.com/_ld/0/83320126.jpg", Al Resala
 https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_480p/chunks.m3u8
 #EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwnj6YuFr8JwiZ9_7JIaFAWdfFPeEp_AdxbI_CFGonA=s176-c-k-c0x00ffffff-no-rj-mo", Quran Kareem
-https://https://cllive.itworkscdn.net:443/ksaquranlive/token=nva=1635886330~dirs=1~hash=01e66428ed7ff94c17dff/ksaquran.smil/ksaquran_480p_chunks.m3u8
+https://http://m.live.net.sa:1935/live/sunnah/chunklist_w932007881.m3u8
 #EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwnhE7lTRmapeqPytQzbG5PljCq-YShDQAXEpiuiC4A=s176-c-k-c0x00ffffff-no-rj-mo", Al-Sunnah
 http://m.live.net.sa:1935/live/sunnah/chunklist_w2015308056.m3u8?v=3574523394
 #EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwnhE7lTRmapeqPytQzbG5PljCq-YShDQAXEpiuiC4A=s176-c-k-c0x00ffffff-no-rj-mo", Al-Sunnah 2
