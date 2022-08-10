@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1, logo="https://images-eu.ssl-images-amazon.com/images/I/310YEHDYguL.png", Al Jazeera Arabic HD
-https://live-hls-web-aja.getaj.net/AJA-b/01.m3u8
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1,  Al Hurra
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master_2596.m3u8
