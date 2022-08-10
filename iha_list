@@ -3,3 +3,9 @@
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1,  Al Hurra
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master_2596.m3u8
+#EXTINF:-1,  TRT Haber
+https://tv-trthaber.medya.trt.com.tr:443/master_720.m3u8
+#EXTINF:-1,  TGRT 
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+#EXTINF:-1,  CNN Türk 
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
