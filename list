@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1, logo="https://images-eu.ssl-images-amazon.com/images/I/310YEHDYguL.png", Al Jazeera Arabic HD
+#EXTINF:-1, logo="https://images-eu.ssl-images-amazon.com/images/I/310YEHDYguL.png", الجزيرة
 https://live-hls-web-aja.getaj.net/AJA-b/01.m3u8
 #EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwniy-zcuswM3n-U0MeK3y1xy8CiFe1_nsLLLxUXO=s176-c-k-c0x00ffffff-no-rj-mo", TRT Arabic
 https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
-#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwnjaUglhN1iVmoe5zC4hf1RdqvvxEQxRlwphWxaS=s176-c-k-c0x00ffffff-no-rj-mo", Nour Al-Sham
+#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwnjaUglhN1iVmoe5zC4hf1RdqvvxEQxRlwphWxaS=s176-c-k-c0x00ffffff-no-rj-mo", نور الشام
 https://vod.ortas.live/oLive/nour05042022/chunklist_w1683254017.m3u8
-#EXTINF:-1, logo="https://www.alresalah.net/wp-content/themes/bridge-child/images/logo.png", Al Resala
+#EXTINF:-1, logo="https://www.alresalah.net/wp-content/themes/bridge-child/images/logo.png", الرسالة 
 https://hiplayer.hibridcdn.net/p/rotana-risala?p=50&s=1699028644&e=1699115044&cf=1699115044&h=d23144ee173969181639d22b0cd5ecd3
-#EXT#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwng5vm6JiMcNPZ98ZfdkxdBTBYF6CNujaFTqkwUOew=s176-c-k-c0x00ffffff-no-rj-mo", Iqraa
-https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
-#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwnj6YuFr8JwiZ9_7JIaFAWdfFPeEp_AdxbI_CFGonA=s176-c-k-c0x00ffffff-no-rj-mo", Quran Kareem
+#EXT#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwng5vm6JiMcNPZ98ZfdkxdBTBYF6CNujaFTqkwUOew=s176-c-k-c0x00ffffff-no-rj-mo", إقرأ
+https://jmc-live.ercdn.net/iqraa/iqraa.m3u8?v=3649261835
+#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwnj6YuFr8JwiZ9_7JIaFAWdfFPeEp_AdxbI_CFGonA=s176-c-k-c0x00ffffff-no-rj-mo", القرآن الكريم 
 https://al-ekhbaria-prod-dub.shahid.net:443/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_1.m3u8
-#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwnhE7lTRmapeqPytQzbG5PljCq-YShDQAXEpiuiC4A=s176-c-k-c0x00ffffff-no-rj-mo", Al-Sunnah
+#EXTINF:-1, logo="https://yt3.ggpht.com/ytc/AAUvwnhE7lTRmapeqPytQzbG5PljCq-YShDQAXEpiuiC4A=s176-c-k-c0x00ffffff-no-rj-mo", السنة النبوية
 https://shls-euronews-en-prod-dub.shahid.net:443/out/v1/b09bbb8d9b684763be4211b088168de7/index_9.m3u8
 
